@@ -3,7 +3,7 @@
 
 ## Project 2: Fraud Detection
 
-The Fraud Detection Project is part of Indonesia AI's Bootcamp Portfolio Project, which tasks students with developing machine learning algorithms to predict fraudulent credit card transactions, spanning across 1000 customers with a pool of 800 merchants. 
+The Fraud Detection Project is part of Indonesia AI's Bootcamp Portfolio Project, which tasks students with developing machine learning algorithms to predict fraudulent credit card transactions, spanning across 1000 customers with a pool of 800 merchants. I did not include the dataset due to its size, but you can find it here: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
 To predict the fraudulent transactions, we utilized several models, including AdaBoost, Gradient Boost, XGBoost, and K-Nearest Neighbors. I contributed to this team's project by creatiung the AdaBoost and Gradient Boost models.
 
